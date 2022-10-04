@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Vladislav Balashov](https://up.htmlacademy.ru/htmlcss/35/user/2070301).
-* Наставник: `Неизвестно`.
+* Наставник: [`Надежда Палаш`](https://htmlacademy.ru/profile/id1191579).
 
 ---
 
